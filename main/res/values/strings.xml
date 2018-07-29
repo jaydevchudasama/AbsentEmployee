@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TimeAndAttendance</string>
+    <string name="prompt">Choose Shift</string>
+    <string-array name="shift">
+        <item>8:00AM</item>
+        <item>2:00PM</item>
+        <item>10:00PM</item>
+    </string-array>
+</resources>
